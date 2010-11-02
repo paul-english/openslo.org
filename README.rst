@@ -7,5 +7,6 @@ Setup
 =====
 
 ::
+
     git clone git://github.com/openslo/openslo.org
     python setup.py install
